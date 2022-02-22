@@ -1,3 +1,3 @@
-# Adv-Programming-Assignments
+# Color-Predictor
 
-This repository contains all my Lab Assignments of Advanced Programming Course (JAVA)
+A mini color guessing game built using HTML, CSS and vanilla javascript.
